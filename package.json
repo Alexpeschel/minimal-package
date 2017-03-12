@@ -1,0 +1,10 @@
+{
+  "name": "minimal-package",
+  "description": "Minimal package for educational purposes",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marionebl/minimal-package.git"
+  },
+  "license": "MIT"
+}
